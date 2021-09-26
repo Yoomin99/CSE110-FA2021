@@ -1,7 +1,9 @@
-# **Yoomin Oh**
+# **Yoomin Oh** 
+![picture](selfie.jpg)
 
 ### *PID:A16540434*
-#### [Personal websites](website.md)
+#### [Personal websites](website.md)    
+#### Computer Science major
 
 # Study     
 
